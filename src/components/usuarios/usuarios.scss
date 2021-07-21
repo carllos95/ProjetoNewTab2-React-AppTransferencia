@@ -1,0 +1,55 @@
+.container{
+    width: 100%;
+    height: 150px;
+    background: rgb(57,58,94);
+    background: linear-gradient(180deg, rgba(57,58,94,1) 0%, rgba(40,42,63,1) 100%);
+    margin: 1px 0px;
+    .content{
+        max-width: 80%;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0px auto;
+        img{
+            height: 70%;
+            border-radius: 50%;
+            margin-right: 20px;
+        }
+        .text-user{
+            margin-right: auto;
+            P{
+                margin: 0px;
+                color: #fff;
+                font-size: 1.5rem;
+                font-weight: 400;
+            }
+        }
+        button{
+            padding: 5px 10px;
+            font-weight: bold;
+        }
+    }
+    @media screen and (max-width:768px) {
+        .content{
+            max-width: 95%;
+            img{
+                height: 50%;
+                margin-right: 10px;
+            }
+            .text-user{
+                p{
+                    font-size: 1rem;
+                }
+                @media screen and (max-width: 480px) {
+                    p{
+                        font-size: 0.8rem;
+                    }
+                }
+            }
+            button{
+                padding: 2px 5px;
+            }
+        }
+    }
+}
