@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ProjetoNewTab2-React-AppTransferencia/static/css/main.8abd8a22.chunk.css",
-    "main.js": "/ProjetoNewTab2-React-AppTransferencia/static/js/main.3c095609.chunk.js",
-    "main.js.map": "/ProjetoNewTab2-React-AppTransferencia/static/js/main.3c095609.chunk.js.map",
-    "runtime-main.js": "/ProjetoNewTab2-React-AppTransferencia/static/js/runtime-main.428ae69d.js",
-    "runtime-main.js.map": "/ProjetoNewTab2-React-AppTransferencia/static/js/runtime-main.428ae69d.js.map",
-    "static/js/2.85dc031f.chunk.js": "/ProjetoNewTab2-React-AppTransferencia/static/js/2.85dc031f.chunk.js",
-    "static/js/2.85dc031f.chunk.js.map": "/ProjetoNewTab2-React-AppTransferencia/static/js/2.85dc031f.chunk.js.map",
-    "index.html": "/ProjetoNewTab2-React-AppTransferencia/index.html",
-    "static/css/main.8abd8a22.chunk.css.map": "/ProjetoNewTab2-React-AppTransferencia/static/css/main.8abd8a22.chunk.css.map",
-    "static/js/2.85dc031f.chunk.js.LICENSE.txt": "/ProjetoNewTab2-React-AppTransferencia/static/js/2.85dc031f.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.8abd8a22.chunk.css",
+    "main.js": "/static/js/main.3c095609.chunk.js",
+    "main.js.map": "/static/js/main.3c095609.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e760fade.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e760fade.js.map",
+    "static/js/2.85dc031f.chunk.js": "/static/js/2.85dc031f.chunk.js",
+    "static/js/2.85dc031f.chunk.js.map": "/static/js/2.85dc031f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8abd8a22.chunk.css.map": "/static/css/main.8abd8a22.chunk.css.map",
+    "static/js/2.85dc031f.chunk.js.LICENSE.txt": "/static/js/2.85dc031f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.428ae69d.js",
+    "static/js/runtime-main.e760fade.js",
     "static/js/2.85dc031f.chunk.js",
     "static/css/main.8abd8a22.chunk.css",
     "static/js/main.3c095609.chunk.js"
