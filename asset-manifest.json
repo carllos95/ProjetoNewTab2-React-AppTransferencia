@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/carllos95/ProjetoNewTab2-React-AppTransferencia/static/css/main.8abd8a22.chunk.css",
+    "main.js": "/carllos95/ProjetoNewTab2-React-AppTransferencia/static/js/main.3c095609.chunk.js",
+    "main.js.map": "/carllos95/ProjetoNewTab2-React-AppTransferencia/static/js/main.3c095609.chunk.js.map",
+    "runtime-main.js": "/carllos95/ProjetoNewTab2-React-AppTransferencia/static/js/runtime-main.a3cde15d.js",
+    "runtime-main.js.map": "/carllos95/ProjetoNewTab2-React-AppTransferencia/static/js/runtime-main.a3cde15d.js.map",
+    "static/js/2.85dc031f.chunk.js": "/carllos95/ProjetoNewTab2-React-AppTransferencia/static/js/2.85dc031f.chunk.js",
+    "static/js/2.85dc031f.chunk.js.map": "/carllos95/ProjetoNewTab2-React-AppTransferencia/static/js/2.85dc031f.chunk.js.map",
+    "index.html": "/carllos95/ProjetoNewTab2-React-AppTransferencia/index.html",
+    "static/css/main.8abd8a22.chunk.css.map": "/carllos95/ProjetoNewTab2-React-AppTransferencia/static/css/main.8abd8a22.chunk.css.map",
+    "static/js/2.85dc031f.chunk.js.LICENSE.txt": "/carllos95/ProjetoNewTab2-React-AppTransferencia/static/js/2.85dc031f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3cde15d.js",
+    "static/js/2.85dc031f.chunk.js",
+    "static/css/main.8abd8a22.chunk.css",
+    "static/js/main.3c095609.chunk.js"
+  ]
+}
